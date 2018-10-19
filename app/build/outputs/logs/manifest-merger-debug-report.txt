@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:3:7-29
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:4:31-58
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:5:7-37
+uses-sdk
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:7:5-44
+	android:targetSdkVersion
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:7:5-44
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml
+		INJECTED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:11:2-76
+	android:name
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:11:19-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:12:2-78
+	android:name
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:12:19-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:13:2-76
+	android:name
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:13:19-73
+uses-permission#android.permission.INTERNET
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:14:2-64
+	android:name
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:14:19-61
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:15:2-73
+	android:name
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:15:19-70
+application
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:17:5-36:19
+	android:label
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:17:48-80
+	android:icon
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:17:18-47
+activity#com.inloc.dr.DeadReckoning
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:18:9-25:20
+	android:label
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:19:19-51
+	android:configChanges
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:20:19-54
+	android:name
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:18:19-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.inloc.dr.Settings
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:label
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:27:17-58
+	android:name
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:26:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:28:13-31:29
+category#android.intent.category.DEFAULT
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:30:27-73
+service#com.inloc.dr.StepService
+ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:34:9-59
+	android:name
+		ADDED from H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\AndroidManifest.xml:34:18-57

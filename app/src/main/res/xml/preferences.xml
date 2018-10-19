@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+            android:title="@string/steps_settings_title">
+            
+         <EditTextPreference
+                android:key="username"
+                android:title="Username"
+                android:summary="Your unique identifier"
+                android:dialogTitle="Please enter your username"
+                android:defaultValue="johndoe" />
+            
+        
+        <!--
+        
+        <ListPreference
+                android:key="sensitivity"
+                android:title="@string/sensitivity_setting"
+                android:summary="@string/sensitivity_setting_details"
+                android:entries="@array/sensitivity_preference"
+                android:entryValues="@array/sensitivity_preference_values"
+                android:dialogTitle="@string/sensitivity_setting_title"
+                android:defaultValue="30" />
+        -->
+
+        <ListPreference
+                android:key="operation_level"
+                android:title="@string/operation_level_setting"
+                android:summary="@string/operation_level_setting_details"
+                android:entries="@array/operation_level_preference"
+                android:entryValues="@array/operation_level_preference_values"
+                android:dialogTitle="@string/operation_level_setting_title"
+                android:defaultValue="30" />
+
+        <ListPreference
+                android:key="units"
+                android:title="@string/units_setting"
+                android:summary="@string/units_setting_details"
+                android:entries="@array/units_preference"
+                android:entryValues="@array/units_preference_values"
+                android:dialogTitle="@string/units_setting_title"
+                android:defaultValue="imperial" />
+
+        <com.inloc.dr.preferences.StepLengthPreference
+                android:key="step_length"
+                android:title="@string/step_length_setting"
+                android:summary="@string/step_length_setting_details"
+                android:dialogTitle="@string/step_length_setting_title"
+                android:defaultValue="20" />
+
+    </PreferenceCategory>
+    
+    
+	<PreferenceCategory
+            android:title="Server Settings">
+            
+        <EditTextPreference
+                android:key="serverip"
+                android:title="Server IP"
+                android:summary="Remote server IP address"
+                android:defaultValue="192.168.1.1" />
+        
+        <EditTextPreference
+                android:key="serverport"
+                android:title="Server Port"
+                android:summary="Remote server port number"
+                android:defaultValue="22050" />
+        
+
+    </PreferenceCategory>
+
+    
+</PreferenceScreen>

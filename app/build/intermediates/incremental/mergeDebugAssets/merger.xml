@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\main\assets"/><source path="H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="H:\mydesktop\android-multisensorgrabber-2-master\dr_client-master\app\src\debug\assets"/></dataSet></merger>
